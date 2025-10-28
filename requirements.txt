@@ -1,0 +1,7 @@
+pandas
+httpx
+matplotlib
+schedule
+fpdf
+seaborn
+
