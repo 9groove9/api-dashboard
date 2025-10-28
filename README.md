@@ -147,4 +147,4 @@ and results can be merged dynamically via shared keys (e.g. `date`).
 
 **Oleh Yuldashev**  
 📍 Python Developer | Data Automation | API Integrations | PDF Reporting  
-🌐 GitHub Portfolio: [github.com/oleh](https://github.com/oleh) *(replace with your actual URL)*  
+🌐 GitHub Portfolio: [github.com/9groove9](https://github.com/9groove9)

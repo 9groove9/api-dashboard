@@ -24,9 +24,6 @@ logs/
 *.tmp
 *.bak
 
-# ---- Generated Outputs ----
-reports/dashboard_report.pdf
-csv/*.csv
 
 # ---- Environment / Secrets ----
 .env
